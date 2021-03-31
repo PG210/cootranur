@@ -4,35 +4,44 @@
             <div class="col-md-4 col-sm-11 col-xs-11">
                 <div class="footer-text pull-left">
                     <div class="d-flex">
-                        <h1 class="font-weight-bold mr-2 px-3" style="color:#16151a; background-color:#3AEFB0">Cootranur</h1>
-                        <h1 style="color: #957bda">Ltda</h1>
+                        <h1 class="font-weight-bold mr-2 px-0" style="color:#16151a; background-color:#FD6C19">COOTRANUR</h1>
+                        <h1 style="color: #16151a">LTDA</h1>
                     </div>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi non pariatur numquam animi nam at impedit odit nisi.</p>
+                    <p class="card-text">
+                   COOPERATIVA DE TRANSPORTADORES URBANOS CIUDAD DE PASTO
+
+                    </p>
                     <div class="social mt-2 mb-3"> <i class="fa fa-facebook-official fa-lg"></i> <i class="fa fa-instagram fa-lg"></i> <i class="fa fa-twitter fa-lg"></i> <i class="fa fa-linkedin-square fa-lg"></i> <i class="fa fa-facebook"></i> </div>
                 </div>
             </div>
             <div class="col-md-2 col-sm-1 col-xs-1 mb-2"></div>
             <div class="col-md-2 col-sm-4 col-xs-4">
-                <h5 class="heading"></h5>
+                <h5 class="heading">Oficiana Principal</h5>
                 <ul>
-                   
+                     Cll 20 No. 33A-08 Av. Estudiantes<br>
+                    737 7278 - 731 0168<br>
+                    318 428 6088
                 </ul>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-4">
-                <h5 class="heading">Contactos</h5>
+                <h5 class="heading">Estacion de Servicio Cootranur</h5>
                 <ul class="card-text">
-                <h6>hola 1</h6>
-                <h6>hola 2</h6>
+                    Cll 22 No. 9 Este 20<br>
+                    Via Oriente<br>
+                    732 5233
                 </ul>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-4">
-                <h5 class="heading"></h5>
+                <h5 class="heading">Lubricentro Cootranur</h5>
                 <ul class="card-text">
+                    
+                    Via Oriente<br>
+                   cootranurltda@hotmail.com
                 </ul>
             </div>
         </div>
         <div class="divider mb-4"> </div>
-        <div class="row" style="font-size:10px;">
+        <div class="row" style="font-size:12px;">
             <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="pull-left">
                     <p><i class="fa fa-copyright"></i> © 2021 Todos los derechos reservados</p>
@@ -52,9 +61,9 @@
 
 body {
     background-color: #f3f6fd;
-    font-size: 11.5px;
+    font-size: 16px;
     font-weight: bold;
-    color: rgb(189, 196, 203)
+    color:black;
 }
 
 .card {

@@ -22,4 +22,3 @@ Route::get('cootranur/informacion/mision-vision', [Informacion::class, 'informa'
 //ruta descarga
 Route::get('cootranur/informacion/financiera', [Informacion::class, 'finan'])->name('financiera');
 //ruta de inicio
-Route::get('cootranur/inicio', [Informacion::class, 'ini'])->name('inicio');

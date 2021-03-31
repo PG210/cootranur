@@ -12,7 +12,4 @@ class Informacion extends Controller
     public function finan(){//retorna la vista o interactua con el modelo de datos
         return view('datos.descarga');//
     }
-    public function ini(){//retorna la vista o interactua con el modelo de datos
-        return view('datos.inicio');//
-    }
 }
