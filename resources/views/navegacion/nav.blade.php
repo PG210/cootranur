@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark color">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="{{route('inicio')}}">
                 <img src="{{url('img/2.png')}}" class="imagen" alt="cargando imagen...." > 
                <style>
                 img.imagen{
@@ -26,21 +26,7 @@
                     <a class="nav-link active" aria-current="page" href="{{route('dat')}}"><b>Home</b></a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#"><b>Link</b></a>
-                    </li>
-                    <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Dropdown
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                    <a class="nav-link" href="{{route('financiera')}}"><b>Informacion Financiera</b></a>
                     </li>
                 </ul>
                 </div>

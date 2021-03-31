@@ -19,3 +19,7 @@ Route::get('/', function () {
 });
 //ruta mision vision
 Route::get('cootranur/informacion/mision-vision', [Informacion::class, 'informa'])->name('dat');
+//ruta descarga
+Route::get('cootranur/informacion/financiera', [Informacion::class, 'finan'])->name('financiera');
+//ruta de inicio
+Route::get('cootranur/inicio', [Informacion::class, 'ini'])->name('inicio');

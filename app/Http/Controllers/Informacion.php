@@ -9,4 +9,10 @@ class Informacion extends Controller
     public function informa(){//retorna la vista o interactua con el modelo de datos
         return view('datos.info');//
     }
+    public function finan(){//retorna la vista o interactua con el modelo de datos
+        return view('datos.descarga');//
+    }
+    public function ini(){//retorna la vista o interactua con el modelo de datos
+        return view('datos.inicio');//
+    }
 }

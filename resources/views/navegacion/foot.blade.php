@@ -13,30 +13,21 @@
             </div>
             <div class="col-md-2 col-sm-1 col-xs-1 mb-2"></div>
             <div class="col-md-2 col-sm-4 col-xs-4">
-                <h5 class="heading">Services</h5>
+                <h5 class="heading"></h5>
                 <ul>
-                    <li>IT Consulting -</li>
-                    <li>Development</li>
-                    <li>Cloud</li>
-                    <li>DevOps & Support</li>
-                </ul>
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-4">
-                <h5 class="heading">Industries</h5>
-                <ul class="card-text">
-                    <li>Finance</li>
-                    <li>Public Sector</li>
-                    <li>Smart Office</li>
-                    <li>Retail</li>
+                   
                 </ul>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-4">
                 <h5 class="heading">Contactos</h5>
                 <ul class="card-text">
-                    <li>About Us</li>
-                    <li>Blog</li>
-                    <li>Contact</li>
-                    <li>Join Us</li>
+                <h6>hola 1</h6>
+                <h6>hola 2</h6>
+                </ul>
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-4">
+                <h5 class="heading"></h5>
+                <ul class="card-text">
                 </ul>
             </div>
         </div>

@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Cootranur</title>
-        <link rel="shortcut icon" href="img/1.svg"><!--icono de la pagina web en la ruta-->
+        <link rel="shortcut icon" href="{{('img/1.svg')}}"><!--icono de la pagina web en la ruta-->
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
