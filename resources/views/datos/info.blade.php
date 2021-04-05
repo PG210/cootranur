@@ -1,8 +1,8 @@
 @extends('principal')
 @section('content')
 <br>
-<img src="{{url('img/2.png')}}" class="img-fluid" alt="...">
-<br>
+
+
     <div class="accordion" id="accordionExample">
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingOne">
@@ -18,6 +18,7 @@
         <div class="text-center">
             <img src="{{url('img/c1.jpg')}}" class="img-fluid" alt="cargando imagen...." width="600px" high="400px">
        </div>
+       <br>
         
         </div>
     </div>
@@ -34,12 +35,14 @@
         <div class="text-center">
         <img src="{{url('img/c2.jpg')}}" class="img-fluid" width="600px" high="400px" alt="cargando imagen....">
         </div>
+        <br>
         </div>
+        
     </div>
     <div class="accordion-item">
         <h2 class="accordion-header" id="headingThree">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-            Ubicacion
+            Ubicación
         </button>
         </h2>
         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">

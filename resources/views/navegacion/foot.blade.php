@@ -4,7 +4,7 @@
             <div class="col-md-4 col-sm-11 col-xs-11">
                 <div class="footer-text pull-left">
                     <div class="d-flex">
-                        <h1 class="font-weight-bold mr-2 px-0" style="color:#16151a; background-color:#FD6C19">COOTRANUR</h1>
+                        <h1 class="font-weight-bold mr-2 px-0" style="color:#16151a; background-color:#3B58F8">COOTRANUR</h1>
                         <h1 style="color: #16151a">LTDA</h1>
                     </div>
                     <p class="card-text">
@@ -16,7 +16,7 @@
             </div>
             <div class="col-md-2 col-sm-1 col-xs-1 mb-2"></div>
             <div class="col-md-2 col-sm-4 col-xs-4">
-                <h5 class="heading">Oficiana Principal</h5>
+                <h5 class="heading">Oficina Principal</h5>
                 <ul>
                      Cll 20 No. 33A-08 Av. Estudiantes<br>
                     737 7278 - 731 0168<br>
@@ -24,7 +24,7 @@
                 </ul>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-4">
-                <h5 class="heading">Estacion de Servicio Cootranur</h5>
+                <h5 class="heading">Estación de Servicio Cootranur</h5>
                 <ul class="card-text">
                     Cll 22 No. 9 Este 20<br>
                     Via Oriente<br>
@@ -60,7 +60,7 @@
       @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
 
 body {
-    background-color: #f3f6fd;
+    background-color: #CAD1F9;
     font-size: 16px;
     font-weight: bold;
     color:black;
@@ -69,7 +69,7 @@ body {
 .card {
     padding: 2% 7%;
     color: black;
-    background-color: #FD6C19;
+    background-color: #3B58F8;
 }
 
 ul {

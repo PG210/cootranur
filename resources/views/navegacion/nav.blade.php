@@ -1,3 +1,8 @@
+<br>
+<div class="text-center">
+<img src="{{url('img/2.png')}}" class="img-fluid" alt="...">
+</div>
+<br>
 <nav class="navbar navbar-expand-lg navbar-dark color">
             <div class="container-fluid">
                 <a class="navbar-brand" href="{{url('/')}}">
@@ -13,7 +18,7 @@
                         display: block;
                       }
                   .color{
-                      background-color:#FD6C19;
+                      background-color:#3B58F8;
                   }
                 </style>
                 </a>
