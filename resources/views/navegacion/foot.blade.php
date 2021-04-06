@@ -44,12 +44,12 @@
         <div class="row" style="font-size:12px;">
             <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="pull-left">
-                    <p><i class="fa fa-copyright"></i> © 2021 Todos los derechos reservados</p>
+                    <p><i class="fa fa-copyright"></i>Copyright © 2021 COOTRANUR LTDA </p>
                 </div>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="pull-right mr-4 d-flex policy">
-                    <div>PCCG Asociados</div>
+                    <div>Powered by COOTRANUR LTDA</div>
                 </div>
             </div>
         </div>
